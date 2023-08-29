@@ -1,2 +1,2 @@
 # GUI_Chat_Application
-A chat application is an interface that allows two or more people to chat and send messages to everyone.
+This application lets users to be able to receive the same engaging and lively interactions through custom messaging features, just as they would in person.
